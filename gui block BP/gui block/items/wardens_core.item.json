@@ -2,18 +2,19 @@
 	"format_version": "1.20.50",
 	"minecraft:item": {
 		"description": {
-			"identifier": "gui:golden_heart",
+			"identifier": "gui:wardens_core",
 			"menu_category": {
 				"category": "equipment"
 			}
 		},
 		"components": {
-			"minecraft:allow_off_hand": true,
 			"minecraft:max_stack_size": 1,
 			"minecraft:icon": {
-				"texture": "golden_heart"
+				"texture": "wardens_core"
 			},
-			"minecraft:glint": true
+			"minecraft:display_name":{
+					"value": "§bWardens Core\n§1This Will Kill You And Probaly Anybody Near By"
+			}
 		}
 	}
 }

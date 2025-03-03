@@ -2,16 +2,15 @@
 	"format_version": "1.20.50",
 	"minecraft:item": {
 		"description": {
-			"identifier": "gui:golden_heart",
+			"identifier": "gui:sacred_emerald",
 			"menu_category": {
 				"category": "equipment"
 			}
 		},
 		"components": {
-			"minecraft:allow_off_hand": true,
 			"minecraft:max_stack_size": 1,
 			"minecraft:icon": {
-				"texture": "golden_heart"
+				"texture": "sacred_emerald"
 			},
 			"minecraft:glint": true
 		}

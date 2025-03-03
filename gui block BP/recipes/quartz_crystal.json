@@ -1,0 +1,38 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "gui:quartz_crystal"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "BBB",
+            "BCB",
+            "BAB"
+            
+        ],
+        "key": {
+            "A":{
+                "item": "minecraft:obsidian"
+            },
+            "B": {
+                "item": "minecraft:quartz_block"
+            },
+            "C":{
+                "item": "minecraft:xp_bottle"
+            }	
+        },
+		"unlock": [
+          {
+            "item": "minecraft:copper_ingot"
+          }
+        ],
+        "result": {
+            "item": "gui:quartz_crystal",
+            "count": 1
+        },
+        "priority": 1
+    }
+}
