@@ -1,0 +1,26 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "gui block",
+		"description": "gui block Resource Pack",
+		"uuid": "d2522ed2-1930-7e6f-dc84-25f8cf26f3e8",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["me daddy"],
+		"generated_with": {
+			"blockbench_block_wizard": ["1.3.0"],
+			"blockbench_item_wizard": ["1.1.0", "1.2.0"],
+			"blockbench_entity_wizard": ["1.7.0"]
+		}
+	},
+	"modules": [
+		{
+			"description": "gui block",
+			"type": "resources",
+			"uuid": "e7289995-a4a5-cba8-fa2a-bf46113e0fb6",
+			"version": [1, 0, 0]
+		}
+	]
+}

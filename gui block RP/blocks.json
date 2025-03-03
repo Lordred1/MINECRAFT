@@ -1,0 +1,8 @@
+{
+	"solid_void_white": {
+		"sound": "stone"
+	},
+	"solid_void": {
+		"sound": "stone"
+	}
+}

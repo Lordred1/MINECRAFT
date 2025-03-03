@@ -1,0 +1,17 @@
+{
+  "name": "gui-block",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@minecraft/math": "^2.2.0",
+    "@minecraft/server": "^1.17.0",
+    "@minecraft/server-ui": "^1.3.0"
+  }
+}

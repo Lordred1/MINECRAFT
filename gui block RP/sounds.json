@@ -1,0 +1,38 @@
+{
+	"entity_sounds": {
+		"entities": {
+			"gui:red_knight_igirs": {
+				"events": {
+					"ambient": "mob.vindicator.idle",
+					"ambient.in.raid": {
+						"pitch": [0.8, 1.2],
+						"sound": "mob.vindicator.idle",
+						"volume": 3
+					},
+					"celebrate": "mob.vindicator.celebrate",
+					"death": "mob.vindicator.death",
+					"hurt": "mob.vindicator.hurt"
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			},
+			"gui:prison_realm_entity": {
+				"events": {
+					"ambient": "mob.guardian.land_idle",
+					"ambient.in.water": "mob.guardian.ambient",
+					"death": "mob.guardian.land_death",
+					"death.in.water": "mob.guardian.death",
+					"guardian.flop": {
+						"pitch": 1,
+						"sound": "mob.guardian.flop",
+						"volume": 1
+					},
+					"hurt": "mob.guardian.land_hit",
+					"hurt.in.water": "mob.guardian.hit"
+				},
+				"pitch": [0.8, 1.2],
+				"volume": 1
+			}
+		}
+	}
+}

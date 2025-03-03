@@ -1,0 +1,38 @@
+{
+    "format_version": "1.20.10",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "gui:sacred_emerald"
+        },
+        "tags": [
+            "crafting_table"
+        ],
+        "pattern": [
+            "BBB",
+            "BAB",
+            "BCB"
+            
+        ],
+        "key": {
+            "B": {
+                "item": "minecraft:emerald_block"
+            },
+            "A":{
+                "item": "minecraft:emerald"
+            },
+            "C":{
+                "item": "minecraft:emerald_ore"
+            }	
+        },
+		"unlock": [
+          {
+            "item": "minecraft:copper_ingot"
+          }
+        ],
+        "result": {
+            "item": "gui:sacred_emerald",
+            "count": 1
+        },
+        "priority": 1
+    }
+}

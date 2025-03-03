@@ -1,0 +1,22 @@
+tile.gui:solid_void.name=Solid Void
+tile.gui:solid_void_white.name=Solid Void (white)
+item.gui:backpack=BackPack
+item.gui:wardens_core=Wardens Core
+item.gui:true_miners_pick=§bTrue Miners Pickaxe\n§3Legend Says Right Clicking (LT) Grants Great Power
+item.gui:compressed_diamond=§bCompressed Diamond
+item.gui:compressed_nether_star=§bCompressed Nether Star\n §3This is a placeholder for real item\n Hand to Broden For real Thing
+item.gui:true_nether_star=§bTrue Nether Star
+item.gui:copper_helmet=Copper Helmet
+item.gui:copper_chestplate=Copper ChestPlate
+item.gui:copper_leggings=Copper Leggings
+item.gui:copper_boots=Copper Boots
+item.gui:copper_core=§bCopper Core
+
+item.gui:prison_realm=§mPrison Realm
+entity.gui:prison_realm_entity.name=Prison Realm
+item.spawn_egg.entity.gui:prison_realm_entity.name=Spawn Prison Realm
+item.gui:sacred_emerald=§2Sacred Emerald\nThe Villagers Scared Emerald Brings Good Deals
+item.gui:quartz_crystal=§7Quartz Crystal\n§8The Crystal has the power to return one home\n§8Another strange thing is crouching grants XP
+item.gui:golden_heart=Golden Heart
+entity.gui:red_knight_igirs.name=Red Knight Igirs
+item.spawn_egg.entity.gui:red_knight_igirs.name=Spawn Red Knight Igirs

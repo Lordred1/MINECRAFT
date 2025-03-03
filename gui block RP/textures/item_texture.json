@@ -1,0 +1,46 @@
+{
+	"texture_data": {
+		"golden_heart": {
+			"textures": "textures/items/golden_heart.png"
+		},
+		"quartz_crystal": {
+			"textures": "textures/items/quartz_crystal.png"
+		},
+		"sacred_emerald": {
+			"textures": "textures/items/sacred_emerald.png"
+		},
+		"prison_realm": {
+			"textures": "textures/items/prison_realm.png"
+		},
+		"copper_core": {
+			"textures": "textures/items/copper_core.png"
+		},
+		"copper_boots": {
+			"textures": "textures/items/copper_boots.png"
+		},
+		"copper_leggings": {
+			"textures": "textures/items/copper_leggings.png"
+		},
+		"copper_chestplate": {
+			"textures": "textures/items/copper_chestplate.png"
+		},
+		"copper_helmet": {
+			"textures": "textures/items/copper_helmet.png"
+		},
+		"compressed_nether_star": {
+			"textures": "textures/items/compressed_nether_star.png"
+		},
+		"compressed_diamond": {
+			"textures": "textures/items/compressed_diamond.png"
+		},
+		"true_miners_pick": {
+			"textures": "textures/items/true_miners_pick.png"
+		},
+		"wardens_core": {
+			"textures": "textures/items/wardens_core.png"
+		},
+		"backback": {
+			"textures": "textures/items/backpack.png"
+		}
+	}
+}
