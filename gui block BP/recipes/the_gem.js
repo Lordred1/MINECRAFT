@@ -2,22 +2,22 @@
     "format_version": "1.20.10",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "gui:true_miners_pick"
+            "identifier": "gui:sacred_emerald"
         },
         "tags": [
             "crafting_table"
         ],
         "pattern": [
             "BBB",
-            "A",
-            "A"
+            "BAB",
+            "BBB"
         ],
         "key": {
             "B": {
-                "item": "gui:compressed_diamond"
+                "item": "minecraft:emerald_block"
             },
             "A": {
-                "item": "minecraft:netherite_ingot"
+                "item": "minecraft:ominous_potion"
             }
 
             
@@ -29,7 +29,7 @@
           }
         ],
         "result": {
-            "item": "gui:true_miners_pick",
+            "item": "gui:sacred_emerald",
             "count": 1
         },
         "priority": 1
