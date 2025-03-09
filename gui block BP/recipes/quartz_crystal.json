@@ -21,7 +21,7 @@
                 "item": "minecraft:quartz_block"
             },
             "C":{
-                "item": "minecraft:xp_bottle"
+                "item": "minecraft:experience_bottle"
             }	
         },
 		"unlock": [

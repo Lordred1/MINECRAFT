@@ -3,7 +3,7 @@
 	"header": {
 		"name": "gui block",
 		"description": "gui block Behavior Pack",
-		"uuid": "6c0f7f9c-9b22-a276-1c66-3b1ef8c37f49",
+		"uuid": "be2e181d-45eb-44ba-8e8a-102e3984ac7c",
 		"version": [1, 0, 0],
 		"min_engine_version": [1, 16, 0]
 	},
@@ -32,7 +32,7 @@
 	],
 	"dependencies": [
 		{
-			"uuid": "d2522ed2-1930-7e6f-dc84-25f8cf26f3e8",
+			"uuid": "fc636abe-790f-4fe6-9b18-4c4cd073cb40",
 			"version": [1, 0, 0]
 		},
 		{

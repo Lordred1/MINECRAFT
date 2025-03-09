@@ -10,6 +10,6 @@ world.afterEvents.entityHitEntity.subscribe(({ damagingEntity: player, hitEntity
         
     }
     else{
-        console.warn("error")
+        
     }
 });

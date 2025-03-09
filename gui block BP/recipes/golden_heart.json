@@ -15,7 +15,7 @@
         ],
         "key": {
             "A":{
-                "item": "minecraft:golden_block"
+                "item": "minecraft:gold_block"
             },
             "B": {
                 "item": "minecraft:golden_apple"

@@ -19,3 +19,6 @@ import "./Quartz Crystal/quartz_crystal.js"
 //the quartz cystal that grants xp and tp on R click
 import "./golden_heart/golden_heart.js"
 //golden heart shit
+import "./almulet_souls/amulet_of_souls.js"
+//amulet of souls n logic shit
+import "./rift/rift.js"

@@ -12,8 +12,8 @@ function main(player){
     let title = "§4Prison Realm"
     const prisonrealmForm = new ActionFormData()
     .title(title)
-    .body('§cOnly use this next to the victim')
-    .button('Bannish Player Nearest You')
+    .body('§cOnly use this to free the victim')
+    //.button('Bannish Player Nearest You')
     .button('Realse The Bannished Player')
     .button('Exit')
    prisonrealmForm.show(player).then(r => {
