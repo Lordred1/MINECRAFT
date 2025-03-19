@@ -24,14 +24,14 @@ function WardenBuff(player){
 
    //not needed but will leave                                           player.runCommandAsync('tellraw @a {"rawtext":[{"text":"Welp I Guess This Is It"}]}')
     player.runCommandAsync('say §bHey You Dam Basterd Ill Be Dying First')
-    player.runCommandAsync('summon minecraft:warden ~ ~ ~')
-    player.runCommandAsync('tag @e[type=minecraft:warden] add Lebron')
+    player.runCommandAsync('summon gui:big_hamza ~ ~ ~')
+    player.runCommandAsync('tag @e[type=gui:big_hamza] add Lebron')
    //player.runCommandAsync('execute ')
     player.runCommandAsync('effect @e[tag=Lebron] speed infinite 3 true')
     player.runCommandAsync('effect @e[tag=Lebron] strength infinite 3 true')
     player.runCommandAsync('clear @s gui:wardens_core 0 1')
     player.runCommandAsync('scoreboard players set @s WardenTimer 1000')
-    player.runCommandAsync('effect @e[tag=Lebron] wither infinite 3 true')
+    player.runCommandAsync('schedule delay add hamza 1000')
 }
 function ExitHandle(player){
     console.warn("no")

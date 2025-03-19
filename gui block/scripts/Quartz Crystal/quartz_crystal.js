@@ -133,7 +133,7 @@ function main(player){
     {
         //who ever gets the item edit this command to the location that they want
         console.warn("The Tp Point can be swaped at any point")
-        player.runCommandAsync('tp @s ~ 70 ~ ')
+        player.runCommandAsync('tp @s -499 80 190')
     }
     
 

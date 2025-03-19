@@ -2,22 +2,25 @@
     "format_version": "1.20.10",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "gui:true_miners_pick"
+            "identifier": "gui:amulet_of_souls"
         },
         "tags": [
             "crafting_table"
         ],
         "pattern": [
-            "BBB",
+            "C",
             "A",
-            "A"
+            "B"
         ],
         "key": {
-            "B": {
-                "item": "gui:compressed_diamond"
-            },
             "A": {
-                "item": "minecraft:netherite_ingot"
+                "item": "minecraft:sculk_catalyst"
+            },
+            "B": {
+                "item": "minecraft:bone_block"
+            },
+            "C":{
+                "item":"minecraft:sculk"
             }
 
             
@@ -29,7 +32,7 @@
           }
         ],
         "result": {
-            "item": "gui:true_miners_pick",
+            "item": "gui:wardens_core",
             "count": 1
         },
         "priority": 1

@@ -1,0 +1,1 @@
+kill @e[type=gui:big_hamza]

@@ -22,3 +22,5 @@ import "./golden_heart/golden_heart.js"
 import "./almulet_souls/amulet_of_souls.js"
 //amulet of souls n logic shit
 import "./rift/rift.js"
+//dc
+//import "./playerfinder.js"
